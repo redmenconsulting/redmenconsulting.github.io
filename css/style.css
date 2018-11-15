@@ -148,7 +148,7 @@ body {
 .back-to-top {
   position: fixed;
   display: none;
-  background: #3EC1D5;
+  background: #FF0000;
   color: #fff;
   padding: 6px 12px 9px 12px;
   font-size: 16px;
@@ -212,11 +212,11 @@ div#preloader {
 }
 
 .area-padding {
-  padding: 70px 0px 80px;
+  padding: 7px 0px 20px;
 }
 
 .area-padding-2 {
-  padding: 70px 0px 50px;
+  padding: 7px 0px 20px;
 }
 
 .padding-2 {
@@ -264,7 +264,7 @@ div#preloader {
   left: 0;
   width: 100%;
   height: auto;
-  background: rgba(0, 0, 0, 0.40);
+  background: #ff0000;
   z-index: 9;
 }
 
@@ -282,11 +282,12 @@ div#preloader {
 .main-menu ul.navbar-nav li a {
   background: rgba(0, 0, 0, 0) none repeat scroll 0 0;
   color: #fff;
-  font-size: 15px;
+  font-size: 17px;
   font-weight: 500;
   padding: 24px 0px;
   text-transform: capitalize;
   letter-spacing: 1px;
+  font-style: italic;
 }
 
 .main-menu ul.navbar-nav li.active a::after {
@@ -375,7 +376,7 @@ div#preloader {
 /*--------------------------------*/
 
 .header-area.stick {
-  background-color: rgba(0, 0, 0, 1);
+  background-color: #ff0000;
   height: 70px;
   position: fixed;
   top: 0;
@@ -407,7 +408,7 @@ div#preloader {
 }
 
 .sticky-logo h1 span {
-  color: #3ec1d5;
+  color: black;
 }
 .stick .main-menu ul.navbar-nav li.active a::after {
   border: 1px solid #fff;
@@ -1734,11 +1735,11 @@ div#preloader {
 
 .footer-area {
   padding: 40px 0;
-  background: #f9f9f9;
+  background: black;
 }
 
 .footer-head p {
-  color: #444;
+  color: #FF0000;
 }
 
 .footer-head h4 {
@@ -1754,7 +1755,7 @@ div#preloader {
 }
 
 .footer-logo h2 {
-  color: #222;
+  color: WHITE;
   padding: 0;
   margin: 0;
   font-size: 36px;
@@ -1763,7 +1764,7 @@ div#preloader {
 }
 
 .footer-logo h2 span {
-  color: #3ec1d5;
+  color: #FF0000;
 }
 
 .footer-icons ul li {
@@ -1772,7 +1773,7 @@ div#preloader {
 
 .footer-icons ul li a {
   border: 1px solid #444;
-  color: #444;
+  color: white;
   display: block;
   font-size: 16px;
   height: 40px;
